@@ -234,16 +234,87 @@ ________________________________________________________________________________
 
 
 
+## __Tampilan Login__
+
+Pada halaman login, Memasukkan NIM dan password
+
+![login](https://github.com/user-attachments/assets/f59c81c2-9aee-4f33-8a96-983a201f162b)
 
 
+## __Menu Admin__
+
+Jika pengguna terdaftar sebagai admin maka akan masuk ke menu admin
+
+![menuAdmin](https://github.com/user-attachments/assets/883f3f26-ba95-411b-ac32-668821258cd3)
 
 
+## __Menu Panitia__
+
+Jika pengguna terdaftar sebagai panitia maka akan masuk ke menu panitia
+
+![menuPanitia](https://github.com/user-attachments/assets/8eb2cb47-e176-4d70-8190-246bb727cffe)
 
 
+## __Menu Create Penilaian__
+
+Di menu create penilaian bisa menambahkan nilai untuk sebuah kriteria dan keterangannya
+
+![createPenilaian](https://github.com/user-attachments/assets/b1c9aab9-8bfe-4d22-90bf-80f915ee0fee)
+
+
+## __Menu Edit Penilaian__
+
+Menu edit penilaian digunakan untuk mengubah data penilaian yang sudah dibuat
+
+![editPenilaian](https://github.com/user-attachments/assets/ffb5d6ee-4b4c-40c4-8f86-2caf879acd15)
+
+
+## __Menu Tambah Peserta__
+
+Menu tambah peserta digunakan untuk memasukkan data peserta dan menambahkannya
+
+![createPeserta](https://github.com/user-attachments/assets/96022122-b59f-40cd-a645-307bb63579d3)
+
+
+## __Menu Update Peserta__
+
+Di menu update peserta pengguna bisa memasukkan data baru peserta yang ingin diubah
+
+![editPeserta](https://github.com/user-attachments/assets/b09c4a05-10a8-49b7-9b51-8596c5e187a1)
+
+
+## __Menu Tambah User __
+
+Menu tambah peserta digunakan untuk membuat data user/panitia
+
+![createUser](https://github.com/user-attachments/assets/fa8a4a16-4aeb-4f5d-b376-ea38a15e0d09)
+
+
+## __Menu Update User__
+
+Menu update user digunakan untuk mengubah data user/panitia yang ada
+
+![editUser](https://github.com/user-attachments/assets/7b52b1ba-58c5-4f95-8f39-c9e416f18847)
+
+
+## __Menu Index Peserta__
+
+Di menu index peserta bisa melakukan CRUD dan juga fitur yaitu searching
+
+![indexPeserta](https://github.com/user-attachments/assets/d633f285-1203-4060-8216-23e97ddcff72)
+
+
+## __Menu Index Panitia__
+
+Di menu index panitia bisa melakukan CRUD dan juga fitur yaitu filter
+
+![indexUser](https://github.com/user-attachments/assets/f901065a-cb9d-4888-97e5-169285a0b2a5)
 
 ----------------------------------------------------------------------------------------------------------------
 
 # __Screenshot Input dan Output__
+
+________________________________________________________________________________________________________________________________________________________________________________________________________________________
 
 
 
