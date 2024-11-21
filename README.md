@@ -41,7 +41,7 @@ ________________________________________________________________________________
 
  ![login fix](https://github.com/user-attachments/assets/d9321cbb-234e-40a4-943d-65b76e40e27b)
 
-
+Aplikasi dimulai dari memasukkan NIM dan password pengguna, kemudian aplikasi akan memeriksa dan menentukan role dari pengguna, setelah itu aplikasi akan berlanjut ke menu sesuai dengan role masing-masing.
 
 
 
@@ -69,7 +69,7 @@ ________________________________________________________________________________
 
    ![pbo admin baru](https://github.com/user-attachments/assets/2b794428-3079-4bef-a8a3-4e3df54cb024)
 
-
+Di menu admin ada 3 pilihan yaitu manajemen user, manajemen peserta, dan manajemen penilaian. Pada manajemen user akan muncul tampilan CRUD user dan pengguna dapat memilih menu yang ingin digunakan, pengguna juga dapat menggunakan fitur tambahan dari read yaitu filter untuk user. Setelah selesai menggunakan fitur atau CRUD maka program akan kembali ke menu awal CRUD.
 
 
 
@@ -93,7 +93,7 @@ ________________________________________________________________________________
 
    ![admin peserta](https://github.com/user-attachments/assets/bdbdfea6-d2f3-4b10-9d49-b2728105fde3)
    
-
+Di menu manajemen peserta, admin akan diberi tampilan menu CRUD untuk peserta dan kemudian dapat memilih menu untuk menambahkan data, melihat data, mengubah data, menghapus, melakukan searching, sorting, dan filtering untuk data pesertanya.
 
 
 
