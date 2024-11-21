@@ -17,12 +17,19 @@ NIM   : 2309116049
 
 *PENJELASAN* 
 
+
+
+
 Activity Diagram
+
+
 ![activity](https://github.com/user-attachments/assets/dc9f4c31-49bf-4b86-87bf-de0f3594d4f5)
 
 
 
 Use Case
+
+
 ![USE CASE PA PBO 2 drawio](https://github.com/user-attachments/assets/13b6cff4-fb46-4e3f-8409-a51829428cd5)
 
 
