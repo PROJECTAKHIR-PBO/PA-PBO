@@ -299,7 +299,7 @@ Di menu update peserta pengguna bisa memasukkan data baru peserta yang ingin diu
 ![editPeserta](https://github.com/user-attachments/assets/b09c4a05-10a8-49b7-9b51-8596c5e187a1)
 
 
-## __Menu Tambah User __
+## __Menu Tambah User__
 
 Menu tambah peserta digunakan untuk membuat data user/panitia
 
