@@ -27,11 +27,11 @@ APLIKASI (Akselerasi Pengenalan Lingkungan Kampus Sistem Informasi) adalah sebua
 ________________________________________________________________________________________________________________________________________________________________________________________________________________________
 
 
-*PENJELASAN* 
+**PENJELASAN**
 
 
 
-Flowchart
+__Flowchart__
 
 
 
@@ -43,7 +43,7 @@ Flowchart
 
 
 
-Activity Diagram
+__Activity Diagram__
 
 
 ![activity](https://github.com/user-attachments/assets/dc9f4c31-49bf-4b86-87bf-de0f3594d4f5)
@@ -54,7 +54,7 @@ Activity Diagram
 
 
 
-Use Case
+__Use Case__
 
 
 ![USE CASE PA PBO 2 drawio](https://github.com/user-attachments/assets/13b6cff4-fb46-4e3f-8409-a51829428cd5)
@@ -65,7 +65,7 @@ Use Case
 
 ----------------------------------------------------------------------------------------------------------------
 
-Screnshot Input dan Output
+__Screnshot Input dan Output__
 
 
 
