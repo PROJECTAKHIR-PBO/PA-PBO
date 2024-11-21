@@ -15,6 +15,18 @@ NIM   : 2309116044
 NAMA  : Esra Fernanda Siregar                         
 NIM   : 2309116049
 
+__________________________________________________________________________________________________________________________________________________________________________________________________________________
+
+
+
+
+APLIKASI (Akselerasi Pengenalan Lingkungan Kampus Sistem Informasi) adalah sebuah platform yang dirancang untuk mendukung proses pengkaderan tingkat program studi Sistem Informasi. Aplikasi ini melibatkan kepanitiaan dengan berbagai divisi, serta bina damping (bindam) yang berperan sebagai pembimbing bagi mahasiswa baru. Bindam berinteraksi langsung dengan peserta untuk memberikan arahan dan pendampingan dalam menyelesaikan penugasan. Selain itu, bindam juga memberikan penilaian berkala setiap minggu untuk memantau perkembangan peserta. Penilaian ini menjadi indikator penting bagi panitia dalam mengukur keberhasilan kegiatan pengkaderan secara keseluruhan.
+
+
+
+________________________________________________________________________________________________________________________________________________________________________________________________________________________
+
+
 *PENJELASAN* 
 
 
