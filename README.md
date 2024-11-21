@@ -39,7 +39,8 @@ ________________________________________________________________________________
 
 
 
- ![login fix](https://github.com/user-attachments/assets/d9321cbb-234e-40a4-943d-65b76e40e27b)
+ ![login aplikasi](https://github.com/user-attachments/assets/eeaac2cc-b465-42bd-8fec-b16fb6acbd33)
+
 
 Aplikasi dimulai dari memasukkan NIM dan password pengguna, kemudian aplikasi akan memeriksa dan menentukan role dari pengguna, setelah itu aplikasi akan berlanjut ke menu sesuai dengan role masing-masing.
 
@@ -62,12 +63,13 @@ Aplikasi dimulai dari memasukkan NIM dan password pengguna, kemudian aplikasi ak
 
 
   
+![pbo admin baru](https://github.com/user-attachments/assets/cbbda8be-79cf-4374-ba0d-431d76f50ccc)
 
 
 
 
 
-   ![pbo admin baru](https://github.com/user-attachments/assets/2b794428-3079-4bef-a8a3-4e3df54cb024)
+   
 
 Di menu admin ada 3 pilihan yaitu manajemen user, manajemen peserta, dan manajemen penilaian. Pada manajemen user akan muncul tampilan CRUD user dan pengguna dapat memilih menu yang ingin digunakan, pengguna juga dapat menggunakan fitur tambahan dari read yaitu filter untuk user. Setelah selesai menggunakan fitur atau CRUD maka program akan kembali ke menu awal CRUD.
 
@@ -91,7 +93,8 @@ Di menu admin ada 3 pilihan yaitu manajemen user, manajemen peserta, dan manajem
 
 
 
-   ![admin peserta](https://github.com/user-attachments/assets/bdbdfea6-d2f3-4b10-9d49-b2728105fde3)
+  ![admin crud peserta baru](https://github.com/user-attachments/assets/5d07e512-2764-473b-8d44-717733f78cee)
+
    
 Di menu manajemen peserta, admin akan diberi tampilan menu CRUD untuk peserta dan kemudian dapat memilih menu untuk menambahkan data, melihat data, mengubah data, menghapus, melakukan searching, sorting, dan filtering untuk data pesertanya.
 
@@ -118,7 +121,8 @@ Di menu manajemen peserta, admin akan diberi tampilan menu CRUD untuk peserta da
 
 
 
-  ![admin penillaian](https://github.com/user-attachments/assets/b8478693-ad4d-48e1-8002-688c8469bd36)
+![admin penillaian baru](https://github.com/user-attachments/assets/adfca566-c326-4010-b512-e7e4e8d61df9)
+
 
 
 
@@ -145,7 +149,8 @@ Di menu manajemen peserta, admin akan diberi tampilan menu CRUD untuk peserta da
 
 
 
-   ![panitia menu](https://github.com/user-attachments/assets/7f92deb6-6d28-44be-8ae9-023e733548b4)
+  ![panitia menu baru](https://github.com/user-attachments/assets/9cb148b6-fa25-4806-9804-472035b3d00d)
+
    
 
 
@@ -174,7 +179,8 @@ Di menu manajemen peserta, admin akan diberi tampilan menu CRUD untuk peserta da
 
 
   
-![bindam menu fixx](https://github.com/user-attachments/assets/09aaeb5f-768c-4d79-86aa-79a3f0785ddb)
+![bindam menu baru](https://github.com/user-attachments/assets/488d869e-bfe3-4545-8d29-0f3c2e120928)
+
 
 
 
