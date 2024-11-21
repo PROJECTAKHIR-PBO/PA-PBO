@@ -6,9 +6,7 @@ NIM   : 2309116037
 NAMA  : David Sebastian Sutandy                                      
 NIM   : 2309116041
 
-
-
-NAMA  : Nova Nur Fauziah
+NAMA  : Nova Nur Fauziah                                      
 NIM   : 2309116043
 
 NAMA  : Nurul Hafizah                        
