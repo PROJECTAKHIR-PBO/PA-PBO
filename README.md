@@ -19,6 +19,12 @@ NIM   : 2309116049
 
 
 
+Flowchart
+![PA PBO  drawio](https://github.com/user-attachments/assets/65be2cbe-94a2-4b00-be11-704f28169c83)
+
+
+
+
 
 Activity Diagram
 
@@ -27,10 +33,14 @@ Activity Diagram
 
 
 
+
+
 Use Case
 
 
 ![USE CASE PA PBO 2 drawio](https://github.com/user-attachments/assets/13b6cff4-fb46-4e3f-8409-a51829428cd5)
+
+
 
 
 
