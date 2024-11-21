@@ -35,9 +35,71 @@ ________________________________________________________________________________
 
 
 
+1. Login
 
 
-![PA PBO  drawio](https://github.com/user-attachments/assets/65be2cbe-94a2-4b00-be11-704f28169c83)
+
+   ![PA PBO  drawio](https://github.com/user-attachments/assets/65be2cbe-94a2-4b00-be11-704f28169c83)
+
+
+
+
+2. Admin
+
+
+
+   -CRUD user
+
+
+   ![pbo admin baru](https://github.com/user-attachments/assets/2b794428-3079-4bef-a8a3-4e3df54cb024)
+
+
+
+
+  -CRUD Peserta
+   
+
+
+   ![admin peserta](https://github.com/user-attachments/assets/bdbdfea6-d2f3-4b10-9d49-b2728105fde3)
+   
+
+
+
+  -Admin Data Penilaian
+
+
+
+
+
+  ![admin penillaian](https://github.com/user-attachments/assets/b8478693-ad4d-48e1-8002-688c8469bd36)
+
+
+
+
+
+
+3. Panitia
+
+
+
+
+   ![panitia menu](https://github.com/user-attachments/assets/7f92deb6-6d28-44be-8ae9-023e733548b4)
+   
+
+
+
+
+
+
+
+4. Bindam
+
+
+
+  
+![bindam menu fixx](https://github.com/user-attachments/assets/09aaeb5f-768c-4d79-86aa-79a3f0785ddb)
+
+
 
 
 
