@@ -20,7 +20,12 @@ NIM   : 2309116049
 
 
 Flowchart
+
+
+
 ![PA PBO  drawio](https://github.com/user-attachments/assets/65be2cbe-94a2-4b00-be11-704f28169c83)
+
+
 
 
 
@@ -30,6 +35,8 @@ Activity Diagram
 
 
 ![activity](https://github.com/user-attachments/assets/dc9f4c31-49bf-4b86-87bf-de0f3594d4f5)
+
+
 
 
 
