@@ -126,7 +126,7 @@ Di menu manajemen peserta, admin akan diberi tampilan menu CRUD untuk peserta da
 
 
 
-
+Pada menu ini admin dapat melihat penilaian danmemfilter penilaian.
 
 
 
@@ -155,7 +155,7 @@ Di menu manajemen peserta, admin akan diberi tampilan menu CRUD untuk peserta da
 
 
 
-
+Panitia dapat melakukan beberapa fitur pada menu nya seperti yang tertera di gambar.
 
 
 
@@ -186,7 +186,7 @@ Di menu manajemen peserta, admin akan diberi tampilan menu CRUD untuk peserta da
 
 
 
-
+Bindam dapat melakukan beberapa fitur pada menu nya seperti yang tertera di gambar.
 
 
 
@@ -214,7 +214,7 @@ Di menu manajemen peserta, admin akan diberi tampilan menu CRUD untuk peserta da
 
 
 
-
+Activity Diagram memberikan ilustrasi tentang bagaimana setiap aktivitas dalam sebuah sistem dilakukan, diagram ini membantu dalam memahami alur kerja dari setiap proses dalam aplikasi. Diagram ini membantu menggambarkan alur aktivitas dalam suatu sistem yang melibatkan tiga actor di dalamnya yaitu admin, panitia, dan bindam. 
 
 
 
@@ -237,6 +237,11 @@ Di menu manajemen peserta, admin akan diberi tampilan menu CRUD untuk peserta da
 ![USE CASE PA PBO 2 drawio](https://github.com/user-attachments/assets/13b6cff4-fb46-4e3f-8409-a51829428cd5)
 
 
+
+
+
+
+Use Case Diagram memberikan gambaran visual tentang interaksi antara pengguna dengan sistem. Ini mencakup hal-hal utama yang dapat dilakukan oleh pengguna dan bagaimana sistem akan meresponsnya. Diagram ini menunjukkan tiga aktor yang berinteraksi dengan aplikasi “Sistem Penilaian Peserta APLIKASI”.
 
 
 ________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
